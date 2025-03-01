@@ -1,5 +1,9 @@
 #include<stdio.h>
 
 int main(){
-    printf("Hello World");
+    int a=5;
+
+    int *c = &a;
+
+    printf("%p %x %d",c,c,c);
 }
