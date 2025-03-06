@@ -1,3 +1,5 @@
+// REVERSING AN ARRAY
+
 #include <stdio.h>
 
     int palindrome(int* a,int n){
