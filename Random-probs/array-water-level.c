@@ -1,6 +1,6 @@
 //  https://leetcode.com/problems/container-with-most-water?envType=problem-list-v2&envId=array
 
-/* int mini(int a, int b) {
+int mini(int a, int b) {
     return a < b ? a : b;
 }
 
@@ -22,4 +22,4 @@ int maxArea(int* height, int heightSize) {
         }
     }
     return max_water;
-} */
+} 
