@@ -1,3 +1,5 @@
+// easy peasy
+
 #include <stdio.h>
 
 int main()
