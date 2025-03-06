@@ -9,7 +9,7 @@
     }
     return (numsSize - count);
 }
-2. //OPTIMIZED
+2. //OPTIMIZED CODE
 int removeElement(int* nums, int numsSize, int val) {
     int j = 0; // Pointer for placing non-val elements
     
