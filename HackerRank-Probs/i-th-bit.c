@@ -12,6 +12,8 @@
 
 // Output a single integer, which is the value of the i-th bit of n (either 0 or 1)
 
+// just a random code
+
 #include <stdio.h>
 
 int main() {
