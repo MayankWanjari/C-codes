@@ -15,6 +15,8 @@
 // The first line contains the swapped value of A.
 // The second line contains the swapped value of B.
 
+// swap code
+
 #include <stdio.h>
 
 int main() {
