@@ -7,7 +7,7 @@
 // 1. 1 step + 1 step
 // 2. 2 steps
 
-/*
+
 int climbStairs(int n) {
     int frst = 0, next = 1;
     for (int i = 0; i < n; i++) {
@@ -17,4 +17,4 @@ int climbStairs(int n) {
     }
     return next;
 }
-    */
+
