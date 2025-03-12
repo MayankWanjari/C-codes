@@ -9,3 +9,23 @@
 // Output Format
 
 // Print the smaller of the two integers.
+
+
+#include <stdio.h>
+
+int main() {
+    int a, b, n;
+    
+    scanf("%d", &a);
+    scanf("%d", &b);
+    
+    n = a - b;
+
+    int sign = (n >> 31) & 1;
+
+    int min = a * sign + b * (1 - sign);
+    
+    printf("%d", min);
+    
+    return 0;
+}
