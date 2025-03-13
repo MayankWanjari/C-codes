@@ -14,7 +14,7 @@
 // The mirror remains silent for numbers without significance, discarding such attempts with an "INVALID" response.
 // Your task is to create a program that simulates the enchanted mirror. Based on the input number, the program should output the mirror's verdict.
 
-// Input Format
+
 
 // A single integer N, the number provided to the mirror.
 
