@@ -9,7 +9,7 @@
 // Output Format
 
 // Print the smaller of the two integers.
-
+// and nothing
 
 #include <stdio.h>
 
