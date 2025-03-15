@@ -1,38 +1,3 @@
-// Ecrade has an integer x
-// . There are two kinds of operations.
-
-// Replace x
-//  with ⌊x2⌋
-// , where ⌊x2⌋
-//  is the greatest integer ≤x2
-// .
-// Replace x
-//  with ⌈x2⌉
-// , where ⌈x2⌉
-//  is the smallest integer ≥x2
-// .
-// Ecrade will perform exactly n
-//  first operations and m
-//  second operations in any order. He wants to know the minimum and the maximum possible value of x
-//  after n+m
-//  operations. However, it seems a little difficult, so please help him!
-
-// Input
-// Each test contains multiple test cases. The first line contains the number of test cases t
-//  (1≤t≤104
-// ). The description of the test cases follows.
-
-// The only line of each test case contains three integers x
-// , n
-// , and m
-//  (0≤x,n,m≤109
-// ).
-
-// Output
-// For each test case, print two integers in one line, representing the minimum and the maximum possible value of x
-//  after n+m
-//  operations.
-
 #include <stdio.h>
 
 long long calculate_min(long long x, long long n, long long m) {
