@@ -19,7 +19,7 @@ You must write an algorithm with O(log n) runtime complexity.*/
 
 // binary search
 
-/*int search(int* nums, int numsSize, int target) {
+int search(int* nums, int numsSize, int target) {
     int left=0
     int right=numsSize-1;
     
@@ -36,6 +36,6 @@ You must write an algorithm with O(log n) runtime complexity.*/
 
     }
     return -1;
-}*/
+}
 
 
