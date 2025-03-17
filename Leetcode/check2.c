@@ -1,4 +1,4 @@
-#include <stdio.h>
+ #include <stdio.h>
 
 long long calculate_min(long long x, long long n, long long m) {
     
