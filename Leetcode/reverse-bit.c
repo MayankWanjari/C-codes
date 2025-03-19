@@ -9,4 +9,3 @@ uint32_t reverseBits(uint32_t n) {
     }
     return num;
 }
-// reverse the bit 
