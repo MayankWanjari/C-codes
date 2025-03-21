@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/maximum-product-of-three-numbers?envType=problem-list-v2&envId=math
 
-/* 
+
 
 int maximumProduct(int* nums, int numsSize) {
     int max1 = INT_MIN, max2 = INT_MIN, max3 = INT_MIN;
@@ -29,4 +29,4 @@ int maximumProduct(int* nums, int numsSize) {
     return product1 > product2 ? product1 : product2;
 }
     
-*/
+
