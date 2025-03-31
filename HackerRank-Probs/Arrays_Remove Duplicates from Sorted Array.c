@@ -1,9 +1,3 @@
-// You are given a sorted array of integers. Your task is to modify the array in-place to remove duplicate elements so that each unique element appears only once.
-
-// The function should not return anything; instead, it must modify the given array itself.
-
-// Function Signature
-
 // void removeDuplicates(int arr[], int *n);
 // arr[]: The sorted input array (modifies in-place).
 // n: Pointer to the integer representing the size of the array (*n should be updated to the new size after removing duplicates).
