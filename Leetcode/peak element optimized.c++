@@ -21,3 +21,5 @@ class Solution {
             return start;
         }
     };
+
+    // easy solution
