@@ -30,6 +30,3 @@ int maximumProduct(int* nums, int numsSize) {
 }
 
 
-// commiting the whole scenario
-
-
