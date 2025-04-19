@@ -29,3 +29,4 @@ int maximumProduct(int* nums, int numsSize) {
     return product1 > product2 ? product1 : product2;
 }
 
+// praise the god
