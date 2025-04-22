@@ -28,4 +28,3 @@ int maximumProduct(int* nums, int numsSize) {
     int product2 = min1 * min2 * max1;
     return product1 > product2 ? product1 : product2;
 }
-// thank you bhagvan
