@@ -11,7 +11,7 @@ int main() {
     printf("%d",n);
     return 0;
 }
-// second method
+
 // #include <stdio.h>
 
 // int main() {
