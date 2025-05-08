@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class guesser
+class Guesser
 {
     int gnum;
     
@@ -12,7 +12,7 @@ class guesser
     }
 }
 
-class player{
+class Player{
     int pnum;
     
     int predictingNum(){
@@ -23,7 +23,7 @@ class player{
     }
 }
 
-class umpire{
+class Umpire{
     int numFromGuesser;
     int numFromPlayer1;
     int numFromPlayer2;
