@@ -34,4 +34,3 @@ int main() {
  
     return 0;
 }
-// update the code to use the new C++ standard
